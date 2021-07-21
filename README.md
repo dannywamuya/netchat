@@ -2,7 +2,7 @@
 
 v1.0 of netchat, a client/server chat application using the tcp protocol to make sure that your messages do actually get there and in the actual way that you sent them (*lol, i just learnt about this, can you already tell?*).
 
-<img src="res/netchat-v10.gif" height="512">
+<img src="res/netchat-v10.gif">
 
 &ensp;  
 ### ***Server***
